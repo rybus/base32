@@ -1,3 +1,3 @@
-module github.com/rybus/base32go
+module github.com/rybus/base32
 
 go 1.13
